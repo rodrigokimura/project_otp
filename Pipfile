@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyotp = "*"
 pyperclip = "*"
+python-dotenv = "*"
 
 [dev-packages]
 black = "*"
